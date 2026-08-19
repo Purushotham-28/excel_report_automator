@@ -1,0 +1,21 @@
+Transaction ID,Date,Category,Product Name,Quantity,Unit Price,Total Amount,Region
+TXN1001,2026-01-05,Electronics,Wireless Mouse,2,25.50,51.00,North
+TXN1002,2026-01-06,Office Supplies,Ergonomic Chair,1,150.00,150.00,South
+TXN1003,2026-01-06,Electronics,USB-C Cable,-3,12.00,-36.00,East
+TXN1004,2026-01-07,Furniture,Standing Desk,1,450.00,450.00,West
+TXN1005,2026-01-08,Electronics,Bluetooth Headset,2,85.00,170.00,North
+TXN1001,2026-01-05,Electronics,Wireless Mouse,2,25.50,51.00,North
+TXN1006,2026-01-09,,Desk Lamp,3,29.99,89.97,South
+TXN1007,2026-01-10,Furniture,Bookshelf,2,-75.00,-150.00,East
+TXN1008,2026-01-11,Office Supplies,Mechanical Keyboard,1,95.00,95.00,West
+TXN1009,2026-01-12,Electronics,4K Monitor,1,350.00,350.00,North
+TXN1010,2026-01-13,Office Supplies,Gel Pens (Pack of 10),5,15.00,75.00,
+TXN1011,2026-01-14,Furniture,Office Chair,2,120.00,240.00,South
+TXN1012,2026-01-15,Electronics,Laptop Stand,4,30.00,120.00,East
+TXN1004,2026-01-07,Furniture,Standing Desk,1,450.00,450.00,West
+TXN1013,2026-01-16,Office Supplies,Paper Reams,10,8.50,85.00,West
+TXN1014,2026-01-17,Electronics,Webcam HD,,60.00,0.00,North
+TXN1015,2026-01-18,Furniture,Filing Cabinet,1,210.00,210.00,South
+TXN1016,2026-01-19,Office Supplies,Stapler Heavy Duty,2,-15.00,-30.00,East
+TXN1017,2026-01-20,Electronics,USB Hub,3,22.00,66.00,West
+TXN1018,2026-01-21,Furniture,Monitor Arm,2,80.00,160.00,North
